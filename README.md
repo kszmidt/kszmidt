@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kszmidt&label=Profile%20views&color=0e75b6&style=flat" alt="kszmidt" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning HTML, CSS, **Javascript**
 
 - 👨‍💻 All of my projects are available at [www.dziao.pl](www.dziao.pl)
 
