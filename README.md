@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [www.dziao.pl](www.dziao.pl)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **karolina.dzialo@gmail.com**
 
